@@ -1,14 +1,17 @@
-//config
+// config
 @import "variables";
 
-//layout
+// layout
 @import "reboot";
 
-//minxin
+// minxin
 @import "mixin";
 
-//button
-@import "../components/Button/styles";
+// button
+@import "../components/Button/style";
 
-//menu
-@import "../components/Menu/styles";
+// menu
+@import "../components/Menu/style";
+
+// icon
+@import "../components/Icon/style";
